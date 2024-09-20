@@ -1,0 +1,47 @@
+# Build directory
+/target/
+!/target/*.jar
+
+# IDE files
+.idea/
+*.iml
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+*.env
+
+# Maven files
+*.jar
+*.war
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA
+*.ipr
+*.iws
+*.idea/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Other common ignores
+*.swp
+*.swo
